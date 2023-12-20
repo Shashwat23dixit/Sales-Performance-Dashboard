@@ -1,0 +1,1 @@
+This project unveils a comprehensive Sales Performance Report of a Tech gadget selling company meticulously crafted in PowerBI. This dynamic report serves as a powerful tool, amalgamating various Key Performance Indicators (KPIs) and Key Result Areas (KRAs) to provide meaningful insights into the sales trajectory of the cutting-edge tech products.
